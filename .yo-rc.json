@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.myapp",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "microservice",
+    "baseName": "busNode",
+    "packageName": "com.mycompany.myapp",
+    "packageFolder": "com/mycompany/myapp",
+    "serverPort": "8085",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODM2YzI4ZjRkM2RhNDljYWY1MjE5MTNlZTNjNjUzOWM2NjRlYzAzM2Y3MTFkYzYyMmI1ZDM1MTdiMTAxMmYwMDVjYTE2NTFjOGM5MDZjNzU4MGRhYWQ1N2I5MmVhOWYyZDE2ZTg1NmQyZDhiMzg1NjYyMmYyMjRkNWRhMTE1N2M=",
+    "enableTranslation": true,
+    "languages": [
+      "zh-cn"
+    ],
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "nativeLanguage": "zh-cn",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
